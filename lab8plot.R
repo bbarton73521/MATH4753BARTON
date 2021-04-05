@@ -1,4 +1,5 @@
-#' @Title Central Limit Theorem
+
+#' @title Central Limit Theorem
 #'
 #' @param n a quantitative vector
 #' @param iter number of iterations
